@@ -2,7 +2,7 @@ body {
   font: 15px/1.5 Arial, Helvetica, sans-serif;
   padding: 0;
   margin: 0;
-  background-color: #56525c;
+  background-color: #86848b;
   color: #000000;
 }
 /* Global */
@@ -20,7 +20,7 @@ body {
 /* Header */
 header {
   background: #0e0917;
-  color: #56525c;
+  color: #86848b;
   padding-top: 30px;
   min-height: 70px;
   border-bottom: #56525c 4px solid;
@@ -59,7 +59,7 @@ header nav{
 }
 
 header .highlight , header .current a{
-  color: #56525c;
+  color: #86848b;
   font-weight: bold;
  }
 
@@ -99,10 +99,10 @@ header .highlight , header .current a{
  }
 
 footer{
-  border-top: #56525c 4px solid;
+  border-top: #86848b 4px solid;
   padding: 10px;
   margin-top: 70px;
-  color: #56525c;
+  color: #86848b;
   min-height: 77px;
   background-color: #0e0917;
   text-align: center;
