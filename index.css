@@ -2,7 +2,7 @@ body {
   font: 15px/1.5 Arial, Helvetica, sans-serif;
   padding: 0;
   margin: 0;
-  background-color: #696969;
+  background-color: #56525c;
   color: #000000;
 }
 /* Global */
@@ -19,11 +19,11 @@ body {
 
 /* Header */
 header {
-  background: #CD5C5C;
-  color: #000000;
+  background: #0e0917;
+  color: #56525c;
   padding-top: 30px;
   min-height: 70px;
-  border-bottom: #000000 4px solid;
+  border-bottom: #56525c 4px solid;
 }
 
  header a{
@@ -59,7 +59,7 @@ header nav{
 }
 
 header .highlight , header .current a{
-  color: #000000;
+  color: #56525c;
   font-weight: bold;
  }
 
@@ -99,11 +99,11 @@ header .highlight , header .current a{
  }
 
 footer{
-  border-top: #000000 4px solid;
+  border-top: #56525c 4px solid;
   padding: 10px;
   margin-top: 70px;
-  color: #000000;
+  color: #56525c;
   min-height: 77px;
-  background-color: #CD5C5C;
+  background-color: #0e0917;
   text-align: center;
 }
