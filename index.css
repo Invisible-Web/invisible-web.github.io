@@ -111,7 +111,7 @@ footer{
  /* Navbar container */
 .navbar {
   overflow: hidden;
-  background-color: #86848b;
+  background-color: #0e0917;
   font-family: Arial;
 }
 
@@ -161,7 +161,7 @@ footer{
 /* Links inside the dropdown */
 .dropdown-content a {
   float: none;
-  color: #0e0917;
+  color: #86848b;
   padding: 12px 16px;
   text-decoration: none;
   display: block;
