@@ -131,4 +131,4 @@ footer{
 
 .dropdown:hover .dropdown-content {display: block;}
 
-.dropdown:hover .dropbtn {background-color: #0e0917;}
+.dropdown:hover .current {background-color: #0e0917;}
