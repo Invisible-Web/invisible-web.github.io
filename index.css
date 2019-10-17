@@ -107,3 +107,9 @@ footer{
   background-color: #0e0917;
   text-align: center;
 }
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
