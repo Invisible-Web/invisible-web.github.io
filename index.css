@@ -50,6 +50,7 @@ header #HeadBranding{
 
 header #HeadBranding h1{
   margin:  0;
+  float: left;
 }
 
 header nav{
