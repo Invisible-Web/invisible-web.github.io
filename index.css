@@ -101,7 +101,7 @@ header .highlight , header .current a{
 
 footer{
   border-top: #86848b 4px solid;
-  padding: 10px;
+  padding: 10px 0;
   margin-top: 70px;
   color: #86848b;
   min-height: 77px;
