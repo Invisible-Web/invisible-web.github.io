@@ -117,7 +117,7 @@ footer{
 
 /* Links inside the navbar */
 .navbar a {
-  float: left;
+  float: right;
   font-size: 16px;
   color: #86848b;
   text-align: center;
