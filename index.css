@@ -183,3 +183,8 @@ footer{
 .dropdown:hover .dropdown-content {
   display: block;
 } 
+
+div {
+    font-size: calc((.05em + 2vmin) + (.05em + 2vmax));
+    line-height: 115%;
+}
