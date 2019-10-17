@@ -123,7 +123,7 @@ footer{
 .navbar a {
   float: right;
   font-size: 14px;
-  color: #86848b;
+  color: white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -150,7 +150,7 @@ footer{
 
 /* Add a red background color to navbar links on hover */
 .navbar a:hover, .dropdown:hover .dropbtn {
-  background-color: red;
+  background-color: #86848b;
 }
 
 /* Dropdown content (hidden by default) */
